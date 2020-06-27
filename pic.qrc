@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/wei">
+        <file>enemy1.png</file>
+        <file>tower1.png</file>
+        <file>back.png</file>
+        <file>fire.png</file>
+        <file>tower2.png</file>
+        <file>enemy2.png</file>
+        <file>bgm.mp3</file>
+    </qresource>
+</RCC>
